@@ -33,6 +33,5 @@ yarn-error.log*
 # Documentation
 docs/
 
-# Temporary files
 *.tmp
 .cache/
